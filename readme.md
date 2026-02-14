@@ -184,7 +184,7 @@ I implemented this in **4 languages** to see:
 
 ## 📝 Attribution
 
-- **Data Cleaning (Urdu & Hindi): and readme.md file** Vibe coded 🤖
+- **Data cleaning (Urdu & Hindi): and readme.md file** Vibe coded 🤖
 - **Quran Text Data:** [Tanzil.net](https://tanzil.net/trans/)
 
 ---
