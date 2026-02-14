@@ -77,19 +77,19 @@ Here's my bigram model in action across all languages:
 
 ### 🇬🇧 English
 
-<video src="bigram-eng.mp4" controls width="600"></video>
+<video src="https://github.com/user-attachments/assets/99966d26-ecca-4048-97b0-b163d9ee1950" controls width="600"></video>
 
 ### 🇸🇦 Arabic
 
-<video src="bigram-arabic.mp4" controls width="600"></video>
+<video src="https://github.com/user-attachments/assets/72b93231-20a3-4641-94c5-4d2edc402a6a" controls width="600"></video>
 
 ### 🇵🇰 Urdu
 
-<video src="bigram-urdu.mp4" controls width="600"></video>
+<video src="https://github.com/user-attachments/assets/4b902e5d-33e2-404d-8798-8c1596410084" controls width="600"></video>
 
 ### 🇮🇳 Hindi
 
-<video src="bigram-hindi.mp4" controls width="600"></video>
+<video src="https://github.com/user-attachments/assets/a0731515-ba25-4ea0-bb2a-4fa2ac1162b2" controls width="600"></video>
 
 These videos show:
 
