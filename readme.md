@@ -44,10 +44,6 @@ quran-bigram-model/
 ├── quran_urdu.txt               # Urdu Quran text data
 ├── quran_hindi.txt              # Hindi Quran text data
 ├── info.png                     # Architecture flowchart diagram
-├── bigram-eng.mp4               # English demo video
-├── bigram-arabic.mp4            # Arabic demo video
-├── bigram-urdu.mp4              # Urdu demo video
-├── bigram-hindi.mp4             # Hindi demo video
 ├── readme.md                    # Project documentation
 └── original-copyright-data/     # Source data files
 ```
