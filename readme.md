@@ -85,11 +85,11 @@ Here's my bigram model in action across all languages:
 
 ### 🇵🇰 Urdu
 
-<video src="https://github.com/user-attachments/assets/4b902e5d-33e2-404d-8798-8c1596410084" controls width="600"></video>
+<video src="https://github.com/user-attachments/assets/a0731515-ba25-4ea0-bb2a-4fa2ac1162b2" controls width="600"></video>
 
 ### 🇮🇳 Hindi
 
-<video src="https://github.com/user-attachments/assets/a0731515-ba25-4ea0-bb2a-4fa2ac1162b2" controls width="600"></video>
+<video src="https://github.com/user-attachments/assets/4b902e5d-33e2-404d-8798-8c1596410084" controls width="600"></video>
 
 These videos show:
 
