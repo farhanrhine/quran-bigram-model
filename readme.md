@@ -191,13 +191,7 @@ I implemented this in **4 languages** to see:
 
 ## 🎯 What's Next (My Learning Roadmap)
 
-1. **Attention Mechanisms** - The key innovation in Transformers
-2. **Multi-head Attention** - Allowing models to focus on different aspects
-3. **Transformers** - The architecture behind GPT, BERT, etc.
-4. **Transfer Learning** - Fine-tuning pre-trained models
-5. **Large Language Models** - GPT-3, GPT-4, and beyond
-
----
+code gpt-2 from scratch
 
 ## 📚 Resources
 
